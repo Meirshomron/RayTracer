@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "engine2D", "engine2D\engine2D.vcxproj", "{306839C0-A814-4416-BE03-49836F1B80AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "display", "display\display.vcxproj", "{2785AA83-C879-44C2-8189-158A8AF2525F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rayTracer", "rayTracer\rayTracer.vcxproj", "{13788887-14C1-43A1-AF0F-6B3793247238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306839C0-A814-4416-BE03-49836F1B80AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{306839C0-A814-4416-BE03-49836F1B80AD}.Debug|Win32.Build.0 = Debug|Win32
+		{306839C0-A814-4416-BE03-49836F1B80AD}.Release|Win32.ActiveCfg = Release|Win32
+		{306839C0-A814-4416-BE03-49836F1B80AD}.Release|Win32.Build.0 = Release|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Debug|Win32.Build.0 = Debug|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Release|Win32.ActiveCfg = Release|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Release|Win32.Build.0 = Release|Win32
+		{13788887-14C1-43A1-AF0F-6B3793247238}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13788887-14C1-43A1-AF0F-6B3793247238}.Debug|Win32.Build.0 = Debug|Win32
+		{13788887-14C1-43A1-AF0F-6B3793247238}.Release|Win32.ActiveCfg = Release|Win32
+		{13788887-14C1-43A1-AF0F-6B3793247238}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4FEE56-F641-4D1D-973C-584E1E25010C}
+	EndGlobalSection
+EndGlobal
