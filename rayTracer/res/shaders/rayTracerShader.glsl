@@ -1,4 +1,4 @@
- #version 130 
+#version 130 
 
 uniform vec4 eye;
 uniform vec4 ambient;
