@@ -14,7 +14,7 @@ in vec3 position1;
 // Once this flag is on, all planes are treated like mirrors.
 bool mirrorActive = (eye.w == 0.0);
 
-// The minimum value used to decide wether the result is positive or not. 
+// The minimum value used to decide whether the result is positive or not. 
 const float minThreshold = 0.0001;
 
 // The max distance of an object from the eye / light source.
